@@ -141,7 +141,7 @@ function goBack() {
     timer.style.display = 'block'
     hightScoreLink.style.display = 'block'
     score = 0
-    currentQuestionNumber = 0
+    currentQuestionNumber = 1
     currentQuestion = null
 }
 
