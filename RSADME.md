@@ -1,0 +1,2 @@
+
+This challenge is biuld up of timed code quiz which is made of multiple-choice question. the app run in the browser which feature ubdated HTML and CSS powered by Javascript code. This web app adapts to multiple screen sizes. Bellow are some screen shots with live URL 
