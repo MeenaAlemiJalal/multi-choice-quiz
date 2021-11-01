@@ -99,4 +99,18 @@ h1 {
   color: gray;
 }
 
+.body-highscore {
+  display: none;
+  flex-direction: column;
+  text-align: left;
+  width: 90%;
+ 
+}
+
+.body-highscore p {
+  background-color: rgb(216, 202, 216);
+  font-size: 12px;
+  padding: 3px 2px;
+}
+
     
